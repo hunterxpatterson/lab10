@@ -41,8 +41,9 @@ square6 = drawpad.create_rectangle(90,550,115,600, fill='white')
 #   handle
 oval1 = drawpad.create_oval(93,575,96,580)
 #   chimney
-
-
+line3 = drawpad.create_line(140,370,140,330)
+line4 = drawpad.create_line(140,330,180,330)
+line5 = drawpad.create_line(180,330,180,390)
 
 
 
