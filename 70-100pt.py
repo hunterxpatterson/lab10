@@ -44,8 +44,7 @@ oval1 = drawpad.create_oval(93,575,96,580)
 line3 = drawpad.create_line(140,370,140,330)
 line4 = drawpad.create_line(140,330,180,330)
 line5 = drawpad.create_line(180,330,180,390)
-
-
-
-
+# Green grass
+square6 = drawpad.create_rectangle(0,590,800,600, fill='green')
+# Fin
 root.mainloop()
